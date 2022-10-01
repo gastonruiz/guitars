@@ -1,8 +1,17 @@
 # VIDEO DE RECORRIDO
 
-Se encuentra en la carpeta /readme-gif-recorrido
+## Ecommerce de venta de guitarras
+
+### Gaston Ruiz
 
 ![til](./readme-gif-recorrido/screen-capture.gif)
+
+
+
+
+
+
+
 
 # Getting Started with Create React App
 
