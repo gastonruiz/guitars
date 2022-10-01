@@ -5,12 +5,9 @@ import ItemListContainer from "./Components/ItemListContainer/ItemListContainer"
 import ItemDetailContainer from "./Components/ItemDetailContainer/ItemDetailContainer";
 import Checkout from "./Components/Checkout/Checkout";
 import Cart from "./Components/Cart/Cart";
-import CartContextComponent from "./CartContextComponent/CartContextComponent"
-
-
+import CartContextComponent from "./CartContextComponent/CartContextComponent";
 
 export default function App() {
-
   return (
     <div>
       <CartContextComponent>
@@ -27,8 +24,7 @@ export default function App() {
             <Route path="/checkout" element={<Checkout />} />
           </Routes>
         </BrowserRouter>
-        </CartContextComponent>
-      
+      </CartContextComponent>
     </div>
   );
 }
