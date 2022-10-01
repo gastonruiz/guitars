@@ -2,7 +2,7 @@
 
 Se encuentra en la carpeta /readme-gif-recorrido
 
-
+![til](./readme-gif-recorrido/screen-capture.gif)
 
 # Getting Started with Create React App
 
