@@ -1,3 +1,9 @@
+# VIDEO DE RECORRIDO
+
+Se encuentra en la carpeta /readme-gif-recorrido
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
