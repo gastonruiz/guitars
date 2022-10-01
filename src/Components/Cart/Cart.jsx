@@ -20,10 +20,16 @@ export default function Cart() {
       <div>
         tenes en el carro : {totalCount} a pagar : {totalPay}
       </div>
+      <br/>
+      <br/>
 
-      <Link to={'/checkout'}>
+<div >
+      <Link to={'/checkout'} className="px-4 py-1 text-white font-light tracking-wider bg-gray-900 rounded">
         TERMINAR COMPRA
         </Link>
+
+
+</div>
     </>
   );
 }
