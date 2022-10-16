@@ -13,8 +13,7 @@ export default function Item() {
                 <img
                   className="h-16"
                   src={
-                    "https://cdn.vectorstock.com/i/1000x1000/16/38/logo-for-guitar-shop-vector-20731638.webp"
-                  }
+                    "https://c8.alamy.com/compes/rjchff/guitar-store-tienda-de-musica-vector-logo-etiqueta-signo-ilustracion-grafica-de-guitar-pick-rjchff.jpg" }
                   alt="logo"
                 />
               </Link>
@@ -41,7 +40,7 @@ export default function Item() {
               <Cartwidget />
             </div>
 
-            <Link className="navbar-burger self-center mr-12 xl:hidden">
+            <Link className="navbar-burger self-center mr-12 ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-6 w-6 hover:text-gray-200"
